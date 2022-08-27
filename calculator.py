@@ -10,3 +10,4 @@ def sub(a,b):
     return a+b
 
 print(f"Substraction of {a} and {b} is {sub(10,20)}")
+
